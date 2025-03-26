@@ -1,0 +1,17 @@
+[0.383s] Invoking command in '/home/ashmu/ws_ros2/src/ur3e_controller': PYTHONPATH=/home/ashmu/ws_ros2/build/ur3e_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashmu/ws_ros2/install/ur3e_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur3e_controller build --build-base /home/ashmu/ws_ros2/build/ur3e_controller/build install --record /home/ashmu/ws_ros2/build/ur3e_controller/install.log --single-version-externally-managed install_data
+[0.519s] running egg_info
+[0.519s] writing ../../build/ur3e_controller/ur3e_controller.egg-info/PKG-INFO
+[0.519s] writing dependency_links to ../../build/ur3e_controller/ur3e_controller.egg-info/dependency_links.txt
+[0.520s] deleting ../../build/ur3e_controller/ur3e_controller.egg-info/entry_points.txt
+[0.520s] writing requirements to ../../build/ur3e_controller/ur3e_controller.egg-info/requires.txt
+[0.520s] writing top-level names to ../../build/ur3e_controller/ur3e_controller.egg-info/top_level.txt
+[0.521s] reading manifest file '../../build/ur3e_controller/ur3e_controller.egg-info/SOURCES.txt'
+[0.521s] writing manifest file '../../build/ur3e_controller/ur3e_controller.egg-info/SOURCES.txt'
+[0.521s] running build
+[0.521s] running build_py
+[0.521s] running install
+[0.522s] running install_lib
+[0.523s] running install_data
+[0.523s] creating /home/ashmu/ws_ros2/install/ur3e_controller/share/ament_index/resource_index/ament_plugin
+[0.523s] error: can't copy 'resource/plugin.xml': doesn't exist or not a regular file
+[0.538s] Invoked command in '/home/ashmu/ws_ros2/src/ur3e_controller' returned '1': PYTHONPATH=/home/ashmu/ws_ros2/build/ur3e_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashmu/ws_ros2/install/ur3e_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur3e_controller build --build-base /home/ashmu/ws_ros2/build/ur3e_controller/build install --record /home/ashmu/ws_ros2/build/ur3e_controller/install.log --single-version-externally-managed install_data

@@ -1,0 +1,2 @@
+Invoking command in '/home/ashmu/ws_ros2/build/ur3e_controller': /usr/bin/cmake /home/ashmu/ws_ros2/src/ur3e_controller -DCMAKE_INSTALL_PREFIX=/home/ashmu/ws_ros2/install/ur3e_controller
+Invoked command in '/home/ashmu/ws_ros2/build/ur3e_controller' returned '1': /usr/bin/cmake /home/ashmu/ws_ros2/src/ur3e_controller -DCMAKE_INSTALL_PREFIX=/home/ashmu/ws_ros2/install/ur3e_controller
