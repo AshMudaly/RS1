@@ -1,7 +1,3 @@
-Sure! Below is a README file template that you can use for your GitHub project. Feel free to modify it according to your specific project details.
-
----
-
 # UR3e TSP Motion Planning and Visualization
 
 This project aims to control a **Universal Robots UR3e** robotic arm using **ROS 2** (Humble) and Python. The arm performs a motion planning task where it traces a path in a circular trajectory. Additionally, this project integrates a variation of the **Traveling Salesman Problem (TSP)**, specifically an **Asymmetric TSP (ATSP)** solver, to optimize the sequence in which the arm visits a set of waypoints. The motion of the arm is visualized in **RViz** for better understanding and demonstration.
@@ -99,8 +95,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![RViz Visualization](https://your-image-url.com)
 
----
-
-This README template introduces the purpose of the project, outlines how to set it up and run it, and highlights the key features like TSP integration and RViz visualization. You can update the **`<username>`** and **image URL** as necessary.
 
 Let me know if you'd like to further customize any parts of the README!
