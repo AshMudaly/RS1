@@ -88,12 +88,3 @@ Feel free to fork the repository and create a pull request with improvements or 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Example Visual in RViz
-
-![RViz Visualization](https://your-image-url.com)
-
-
-Let me know if you'd like to further customize any parts of the README!
