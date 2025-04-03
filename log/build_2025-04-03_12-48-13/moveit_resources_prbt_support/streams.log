@@ -1,0 +1,62 @@
+[0.192s] Invoking command in '/home/ashmu/ws_ros2/build/moveit_resources_prbt_support': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ashmu/ws_ros2/src/moveit2/moveit_planners/test_configs/prbt_support -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ashmu/ws_ros2/install/moveit_resources_prbt_support
+[0.256s] -- The C compiler identification is GNU 11.4.0
+[0.325s] -- The CXX compiler identification is GNU 11.4.0
+[0.334s] -- Detecting C compiler ABI info
+[0.419s] -- Detecting C compiler ABI info - done
+[0.427s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.428s] -- Detecting C compile features
+[0.428s] -- Detecting C compile features - done
+[0.432s] -- Detecting CXX compiler ABI info
+[0.536s] -- Detecting CXX compiler ABI info - done
+[0.544s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.545s] -- Detecting CXX compile features
+[0.545s] -- Detecting CXX compile features - done
+[0.549s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.740s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.813s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.909s] -- Configuring done
+[0.911s] -- Generating done
+[0.913s] -- Build files have been written to: /home/ashmu/ws_ros2/build/moveit_resources_prbt_support
+[0.917s] Invoked command in '/home/ashmu/ws_ros2/build/moveit_resources_prbt_support' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ashmu/ws_ros2/src/moveit2/moveit_planners/test_configs/prbt_support -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ashmu/ws_ros2/install/moveit_resources_prbt_support
+[0.918s] Invoking command in '/home/ashmu/ws_ros2/build/moveit_resources_prbt_support': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ashmu/ws_ros2/build/moveit_resources_prbt_support -- -j12 -l12
+[0.958s] Invoked command in '/home/ashmu/ws_ros2/build/moveit_resources_prbt_support' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ashmu/ws_ros2/build/moveit_resources_prbt_support -- -j12 -l12
+[0.959s] Invoking command in '/home/ashmu/ws_ros2/build/moveit_resources_prbt_support': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ashmu/ws_ros2/build/moveit_resources_prbt_support
+[0.967s] -- Install configuration: ""
+[0.967s] -- Execute custom install script
+[0.967s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/ament_index/resource_index/package_run_dependencies/moveit_resources_prbt_support
+[0.983s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/ament_index/resource_index/parent_prefix_path/moveit_resources_prbt_support
+[0.993s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/environment/ament_prefix_path.sh
+[1.008s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/environment/ament_prefix_path.dsv
+[1.020s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/environment/path.sh
+[1.029s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/environment/path.dsv
+[1.039s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/local_setup.bash
+[1.048s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/local_setup.sh
+[1.058s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/local_setup.zsh
+[1.068s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/local_setup.dsv
+[1.077s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/package.dsv
+[1.087s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/ament_index/resource_index/packages/moveit_resources_prbt_support
+[1.097s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/cmake/moveit_resources_prbt_supportConfig.cmake
+[1.107s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/cmake/moveit_resources_prbt_supportConfig-version.cmake
+[1.117s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/package.xml
+[1.128s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/urdf/prbt.ros2_control.xacro
+[1.137s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/urdf/prbt.xacro
+[1.147s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/urdf/prbt_macro.xacro
+[1.156s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/urdf/simple_gripper_brackets.urdf.xacro
+[1.165s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/flange.dae
+[1.176s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/flange.stl
+[1.186s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/foot.dae
+[1.195s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/foot.stl
+[1.204s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_1.dae
+[1.214s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_1.stl
+[1.225s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_2.dae
+[1.235s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_2.stl
+[1.245s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_3.dae
+[1.257s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_3.stl
+[1.266s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_4.dae
+[1.274s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_4.stl
+[1.284s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_5.dae
+[1.294s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/meshes/link_5.stl
+[1.305s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/config/manipulator_controller.yaml
+[1.315s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/config/manipulator_driver.yaml
+[1.326s] -- Symlinking: /home/ashmu/ws_ros2/install/moveit_resources_prbt_support/share/moveit_resources_prbt_support/config/prbt_0_1.dcf
+[1.337s] Invoked command in '/home/ashmu/ws_ros2/build/moveit_resources_prbt_support' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ashmu/ws_ros2/build/moveit_resources_prbt_support

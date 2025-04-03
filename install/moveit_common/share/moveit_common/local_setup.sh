@@ -1,0 +1,1 @@
+/home/ashmu/ws_ros2/build/moveit_common/ament_cmake_environment_hooks/local_setup.sh

@@ -1,0 +1,6 @@
+Invoking command in '/home/ashmu/ws_ros2/build/moveit_common': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ashmu/ws_ros2/src/moveit2/moveit_common -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ashmu/ws_ros2/install/moveit_common
+Invoked command in '/home/ashmu/ws_ros2/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ashmu/ws_ros2/src/moveit2/moveit_common -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ashmu/ws_ros2/install/moveit_common
+Invoking command in '/home/ashmu/ws_ros2/build/moveit_common': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ashmu/ws_ros2/build/moveit_common -- -j12 -l12
+Invoked command in '/home/ashmu/ws_ros2/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ashmu/ws_ros2/build/moveit_common -- -j12 -l12
+Invoking command in '/home/ashmu/ws_ros2/build/moveit_common': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ashmu/ws_ros2/build/moveit_common
+Invoked command in '/home/ashmu/ws_ros2/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ashmu/ws_ros2/build/moveit_common
