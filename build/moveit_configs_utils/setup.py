@@ -1,1 +1,0 @@
-/home/ashmu/ws_ros2/src/moveit2/moveit_configs_utils/setup.py
