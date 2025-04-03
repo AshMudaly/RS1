@@ -1,0 +1,23 @@
+[0.009s] Invoking command in '/home/ashmu/ws_ros2/build/ur3e_controller': /usr/bin/cmake /home/ashmu/ws_ros2/src/ur3e_controller -DCMAKE_INSTALL_PREFIX=/home/ashmu/ws_ros2/install/ur3e_controller
+[0.034s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.162s] -- Found rclpy: 3.3.15 (/opt/ros/humble/share/rclpy/cmake)
+[0.173s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[0.174s]   By not providing "Findmoveit_commander.cmake" in CMAKE_MODULE_PATH this
+[0.174s]   project has asked CMake to find a package configuration file provided by
+[0.174s]   "moveit_commander", but CMake did not find one.
+[0.174s] 
+[0.174s]   Could not find a package configuration file provided by "moveit_commander"
+[0.174s]   with any of the following names:
+[0.174s] 
+[0.174s]     moveit_commanderConfig.cmake
+[0.174s]     moveit_commander-config.cmake
+[0.174s] 
+[0.174s]   Add the installation prefix of "moveit_commander" to CMAKE_PREFIX_PATH or
+[0.174s]   set "moveit_commander_DIR" to a directory containing one of the above
+[0.174s]   files.  If "moveit_commander" provides a separate development package or
+[0.174s]   SDK, be sure it has been installed.
+[0.174s] 
+[0.174s] [0m
+[0.174s] -- Configuring incomplete, errors occurred!
+[0.175s] See also "/home/ashmu/ws_ros2/build/ur3e_controller/CMakeFiles/CMakeOutput.log".
+[0.178s] Invoked command in '/home/ashmu/ws_ros2/build/ur3e_controller' returned '1': /usr/bin/cmake /home/ashmu/ws_ros2/src/ur3e_controller -DCMAKE_INSTALL_PREFIX=/home/ashmu/ws_ros2/install/ur3e_controller
